@@ -1,0 +1,7 @@
+1) install java
+2) open terminal in this directory then run this command:
+	java -classpath . signalprocesser.voronoi.VoronoiTest 50
+ 
+3)for compile:
+	javac -classpath . /home/behnam/Desktop/codes/simple_shape/signalprocesser/voronoi/VoronoiTest.java
+
