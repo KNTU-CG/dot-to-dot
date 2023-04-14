@@ -2,6 +2,12 @@
 
 Operating system recommended: Ubuntu 18 or newer
 
+## Implementation of
+
+Paper Title: Dot to Dot, Simple or Sophisticated: a Survey on Shape Reconstruction Algorithms
+
+Authors: Farnaz Sheikhi, Behnam Zeraatkar, Sama Hanaie
+
 ## How to Install
 
 1. Install python with run `sh install_python.sh` in terminal
@@ -26,3 +32,7 @@ x   y
 .
 .
 ```
+
+## Permission for Usage
+
+The code is purely for academic and non-commercial usage. Please make sure you cite our work if the code is used.
