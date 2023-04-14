@@ -1,4 +1,4 @@
-# Title
+# Dot to Dot, Simple or Sophisticated
 
 Operating system recommended: Ubuntu 18 or newer
 
